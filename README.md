@@ -5,7 +5,7 @@ This project takes the RTL from the `systolic-array-accelerator` and pushes it t
 
 It focuses on the "Back-End" of chip design: Synthesis, Floorplanning, Placement, Routing, and Sign-off.
 
-## Learning Objectives (NVIDIA Target Skills)
+## Learning Objectives
 * **DFT (Design For Test):** Inserting Scan Chains to make the chip testable.
 * **Physical Design:** Floorplanning, Clock Tree Synthesis (CTS), and Routing.
 * **STA (Static Timing Analysis):** Analyzing Setup and Hold time violations.
